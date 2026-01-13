@@ -1,0 +1,7 @@
+git status
+git add .
+git commit -m "add you comments about the changes made"
+git push origin main
+
+Check your GitHub whether the necessary changes are made or not
+git status
