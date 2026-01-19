@@ -27,3 +27,13 @@ for file in files:
 
 print("Folder clean sucessfully")
 
+# ------------Harry's Code--------------------
+# import os
+
+# files = os.listdir("clutteredfolder")
+# i = 1
+# for file in files:
+#     if file.endswith(".png"):
+#         print(file)
+#         os.rename(f"clutteredFolder/{file}", f"clutteredFolder/{i}.png")
+#         i = i + 1
